@@ -1,6 +1,6 @@
 from selenium import webdriver
 from time import sleep
-driver= webdriver.Chrome("D:\WhatsApp_Automation\chromedriver.exe")
+driver= webdriver.Chrome("D:\Whatsapp_Automation_from_github\chromedriver.exe")
 print("Scan QR code")
 driver.get("https://web.whatsapp.com/")
 
@@ -46,3 +46,6 @@ message()
 logout()
 
 #new features to be added
+
+#1. Menu driven system
+#2. automatic connection request to be handled
