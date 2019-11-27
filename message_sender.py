@@ -49,3 +49,4 @@ logout()
 
 #1. Menu driven system
 #2. automatic connection request to be handled
+#3. Gui to be developed
